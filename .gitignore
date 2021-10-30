@@ -1,6 +1,7 @@
 /target
 secret.json
 .env
+.env
 *.csv
 /patch/
 /Cargo.lock

@@ -2,3 +2,6 @@
 secret.json
 .env
 *.csv
+/patch/
+/Cargo.lock
+/.idea
